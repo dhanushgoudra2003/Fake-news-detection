@@ -25,10 +25,19 @@ The dataset should contain:
 - `label`: **1** (Real) or **0** (Fake).  
 You can use a dataset like the **Fake and Real News Dataset** from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset). 
 
----
+## 📊 Results  
+Our **Fake News Detection Model** achieved an **accuracy of 95%** on the test dataset.  
 
-## ⚙️ Installation
+### 🏆 Performance Metrics:  
+          precision    recall  f1-score   support  
 
-1️⃣ Clone the repository:  
-```bash
-git clone https://github.com/your-username/fake-news-detection.git
+       0       0.95      0.94      0.95      7089  
+       1       0.94      0.95      0.95      7338  
+
+accuracy                           0.95     14427  
+
+
+
+✅ **Overall Accuracy: 95%**  
+
+This indicates that the model performs **reliably well** in distinguishing between real and fake news articles.  
