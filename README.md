@@ -34,7 +34,6 @@ Our **Fake News Detection Model** achieved an **accuracy of 95%** on the test da
        0       0.95      0.94      0.95      7089  
        1       0.94      0.95      0.95      7338  
 
-accuracy                           0.95     14427  
 
 
 
